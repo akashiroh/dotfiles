@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/holmesa8/gta/data_471_571/projects/prog3/grading'
+let g:netrw_dirhist_4='/home/holmesa8/gta/data_471_571/projects/prog3'
+let g:netrw_dirhist_3='/home/holmesa8/gta/data_471_571/projects/prog3/grading/logs'
+let g:netrw_dirhist_2='/home/holmesa8/gta/data_471_571/repos/202540_data571_waltzn'
+let g:netrw_dirhist_1='/home/holmesa8/gta/data_471_571/repos/202540_data571_waltzn/prog3'
+let g:netrw_dirhist_0='/home/holmesa8/gta/data_471_571/repos/202540_data571_waltzn'
+let g:netrw_dirhist_9='/home/holmesa8/gta/data_471_571/repos/202540_data571_aggabah/prog3'
+let g:netrw_dirhist_8='/home/holmesa8/gta/data_471_571/repos/202540_data571_aggabah'
+let g:netrw_dirhist_7='/home/holmesa8/gta/data_471_571/repos/202540_data571_hughesw/prog3'
+let g:netrw_dirhist_6='/home/holmesa8/gta/data_471_571/repos/202540_data571_hughesw'
